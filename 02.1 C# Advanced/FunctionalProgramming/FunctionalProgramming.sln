@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActionPrint", "ActionPrint\ActionPrint.csproj", "{A906DAAA-70A0-4B7F-AA48-51561AB01A23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A906DAAA-70A0-4B7F-AA48-51561AB01A23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A906DAAA-70A0-4B7F-AA48-51561AB01A23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A906DAAA-70A0-4B7F-AA48-51561AB01A23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A906DAAA-70A0-4B7F-AA48-51561AB01A23}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {889447FB-CC5A-4ABB-A0FC-A4E7D9EF7161}
+	EndGlobalSection
+EndGlobal

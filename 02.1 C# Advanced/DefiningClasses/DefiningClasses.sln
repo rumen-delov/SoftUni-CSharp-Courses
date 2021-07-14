@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarManufacturer", "CarManufacturer\CarManufacturer.csproj", "{A24820B5-80B8-47AF-8347-7C4D74C9EAB0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DefiningClasses", "DefiningClasses\DefiningClasses.csproj", "{084553E2-A0E4-43E2-A47B-C0CB6E0D85FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateModifier", "DateModifier\DateModifier.csproj", "{F654993C-C2A6-4C69-8A62-DBB64E945FD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeedRacing", "SpeedRacing\SpeedRacing.csproj", "{979FDAAA-7F60-411E-8FF8-AEDB429F4903}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RawData", "RawData\RawData.csproj", "{15E05CC0-7AE3-4A90-8BA3-B419EED375A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarSalesman", "CarSalesman\CarSalesman.csproj", "{CC9BEC0D-6577-438F-BE39-3BA4FA4D7A4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokemonTrainer", "PokemonTrainer\PokemonTrainer.csproj", "{B436CBFD-178D-46B0-859F-4C7319D12607}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A24820B5-80B8-47AF-8347-7C4D74C9EAB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A24820B5-80B8-47AF-8347-7C4D74C9EAB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A24820B5-80B8-47AF-8347-7C4D74C9EAB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A24820B5-80B8-47AF-8347-7C4D74C9EAB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{084553E2-A0E4-43E2-A47B-C0CB6E0D85FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{084553E2-A0E4-43E2-A47B-C0CB6E0D85FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{084553E2-A0E4-43E2-A47B-C0CB6E0D85FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{084553E2-A0E4-43E2-A47B-C0CB6E0D85FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F654993C-C2A6-4C69-8A62-DBB64E945FD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F654993C-C2A6-4C69-8A62-DBB64E945FD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F654993C-C2A6-4C69-8A62-DBB64E945FD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F654993C-C2A6-4C69-8A62-DBB64E945FD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{979FDAAA-7F60-411E-8FF8-AEDB429F4903}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{979FDAAA-7F60-411E-8FF8-AEDB429F4903}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{979FDAAA-7F60-411E-8FF8-AEDB429F4903}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{979FDAAA-7F60-411E-8FF8-AEDB429F4903}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15E05CC0-7AE3-4A90-8BA3-B419EED375A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15E05CC0-7AE3-4A90-8BA3-B419EED375A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15E05CC0-7AE3-4A90-8BA3-B419EED375A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15E05CC0-7AE3-4A90-8BA3-B419EED375A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC9BEC0D-6577-438F-BE39-3BA4FA4D7A4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC9BEC0D-6577-438F-BE39-3BA4FA4D7A4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC9BEC0D-6577-438F-BE39-3BA4FA4D7A4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC9BEC0D-6577-438F-BE39-3BA4FA4D7A4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B436CBFD-178D-46B0-859F-4C7319D12607}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B436CBFD-178D-46B0-859F-4C7319D12607}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B436CBFD-178D-46B0-859F-4C7319D12607}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B436CBFD-178D-46B0-859F-4C7319D12607}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D115921F-F27A-4867-87B6-D91DBA1AAF1D}
+	EndGlobalSection
+EndGlobal
