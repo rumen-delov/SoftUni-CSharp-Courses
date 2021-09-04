@@ -8,7 +8,7 @@ namespace Animals
         public static void Main(string[] args)
         {
             List<Animal> animals = new List<Animal>();
-            
+
             while (true)
             {
                 string input = Console.ReadLine();

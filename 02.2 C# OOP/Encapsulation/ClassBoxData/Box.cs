@@ -49,6 +49,7 @@ namespace ClassBoxData
         public double Height
         {
             get => height;
+
             private set
             {
                 if (value <= 0)

@@ -4,7 +4,7 @@
     {
         private const string DefaultGender = "Male";
 
-        public Tomcat(string name, int age) 
+        public Tomcat(string name, int age)
             : base(name, age, DefaultGender)
         {
         }

@@ -19,6 +19,7 @@ namespace AnimalFarm.Models
         public string Name
         {
             get => this.name;
+
             private set
             {
                 if (string.IsNullOrWhiteSpace(value))
@@ -33,6 +34,7 @@ namespace AnimalFarm.Models
         public int Age
         {
             get => this.age;
+
             private set
             {
                 if (value < MinAge || value > MaxAge)

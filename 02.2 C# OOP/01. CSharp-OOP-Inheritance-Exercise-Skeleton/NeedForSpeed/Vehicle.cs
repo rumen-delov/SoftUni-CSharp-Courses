@@ -1,6 +1,8 @@
-﻿namespace NeedForSpeed
+﻿using System;
+
+namespace NeedForSpeed
 {
-    class Vehicle
+    public class Vehicle
     {
         private const double DefaultFuelConsumption = 1.25;
 
@@ -18,10 +20,15 @@
 
         public virtual void Drive(double kilometers)
         {
-            if (Fuel > 0)
+            if (Fuel >= FuelConsumption * kilometers)
             {
                 Fuel -= FuelConsumption * kilometers;
-            }          
+                Console.WriteLine($"Drive for {kilometers} km.");
+            }
+            else
+            {
+                Console.WriteLine($"You can drive only {Fuel/FuelConsumption:F3} km and not {kilometers:F3} km.");
+            }
         }
     }
 }

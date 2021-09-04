@@ -22,7 +22,7 @@ namespace Animals
 
             set
             {
-                if (String.IsNullOrEmpty(value) || String.IsNullOrWhiteSpace(value))
+                if (String.IsNullOrWhiteSpace(value)) // String.IsNullOrWhiteSpace(value) includes String.IsNullOrEmpty(value) 
                 {
                     throw new ArgumentException("Invalid input!");
                 }
@@ -52,7 +52,7 @@ namespace Animals
             
             set   
             {
-                if (String.IsNullOrEmpty(value) || String.IsNullOrWhiteSpace(value) || (value != "Male" && value != "Female"))
+                if (String.IsNullOrWhiteSpace(value) || (value != "Male" && value != "Female"))
                 {
                     throw new ArgumentException("Invalid input!");
                 }
