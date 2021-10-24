@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace PyramidOfNumbers
+namespace NumberPyramid
 {
     class Program
     {

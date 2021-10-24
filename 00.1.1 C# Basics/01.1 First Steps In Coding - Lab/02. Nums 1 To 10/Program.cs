@@ -6,7 +6,9 @@ namespace Nums1To10
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(1);
+            // Option 1
+			
+			Console.WriteLine(1);
             Console.WriteLine(2);
             Console.WriteLine(3);
             Console.WriteLine(4);
@@ -16,6 +18,13 @@ namespace Nums1To10
             Console.WriteLine(8);
             Console.WriteLine(9);
             Console.WriteLine(10);
+			
+			// Option 2
+			
+			// for(int i = 1; i <= 10; i++)
+            // {
+                // Console.WriteLine(i);
+            // }			
         }
     }
 }
