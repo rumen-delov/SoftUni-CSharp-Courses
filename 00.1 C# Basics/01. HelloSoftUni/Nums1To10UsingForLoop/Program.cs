@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Nums1To10_forLoop_
+namespace Nums1To10UsingForLoop
 {
     class Program
     {

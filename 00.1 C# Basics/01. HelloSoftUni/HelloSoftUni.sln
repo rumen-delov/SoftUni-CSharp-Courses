@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloSoftUni", "HelloSoftUn
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nums1To10", "Nums1To10\Nums1To10.csproj", "{BD9625D4-102D-436D-BE57-7AE5086E7A91}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nums1To10(forLoop)", "Nums1To10(forLoop)\Nums1To10(forLoop).csproj", "{845E4B29-692E-4969-BD01-EAD2CB1F20F0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nums1To10UsingForLoop", "Nums1To10UsingForLoop\Nums1To10UsingForLoop.csproj", "{845E4B29-692E-4969-BD01-EAD2CB1F20F0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareArea", "SquareArea\SquareArea.csproj", "{C9A311EF-856B-4D63-ACA6-B57C845DB106}"
 EndProject
