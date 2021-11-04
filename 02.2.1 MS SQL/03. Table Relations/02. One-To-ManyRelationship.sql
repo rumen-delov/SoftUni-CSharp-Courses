@@ -28,7 +28,7 @@ INSERT INTO [Models]([Name], [ManufacturerID])
 --SELECT * FROM [Manufacturers]
 --SELECT * FROM [Models]
 
--- To see Join
+/* Join of the two tables */
 
 --SELECT * FROM Models AS mo
 --JOIN Manufacturers AS ma
